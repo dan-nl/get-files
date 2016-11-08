@@ -1,0 +1,29 @@
+{
+  "name": "get-files",
+  "version": "0.0.0",
+  "description": "directory files helper",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-nl/normalize-port.git"
+  },
+  "keywords": [
+    "directory",
+    "files",
+    "fs",
+    "helper"
+  ],
+  "bugs": {
+    "url": "https://github.com/dan-nl/normalize-port/issues"
+  },
+  "homepage": "https://github.com/dan-nl/normalize-port#readme",
+  "devDependencies": {
+    "eslint": "3.9.1",
+    "eslint-config-dan-nl": "git://github.com/dan-nl/eslint-config-dan-nl.git"
+  }
+}
